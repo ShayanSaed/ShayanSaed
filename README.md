@@ -56,19 +56,6 @@ I'm an engineer transitioning from **web development** into **embedded software 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShayanSaed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanSaed&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanSaed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm always open to discussing embedded systems, firmware development, or collaborating on open-source hardware/software projects.
