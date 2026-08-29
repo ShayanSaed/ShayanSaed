@@ -18,7 +18,7 @@
 
 I'm an engineer transitioning from **web development** into **embedded software engineering**, currently focused on **STM32 microcontrollers** and the **ARM Cortex-M** architecture. My background in full-stack web development gives me a strong foundation in software architecture, clean code practices, and problem-solving — which I'm now applying to bare-metal and RTOS-based firmware development.
 
-- 🔧 Currently working with **STM32 (Cortex-M series)** using **STM32CubeIDE / HAL / LL drivers**
+- 🔧 Currently working with **STM32 (Cortex-M series)** using **STM32CubeIDE**
 - 📡 Building projects around **peripherals (GPIO, UART, I2C, SPI, ADC, Timers/PWM)** and **interrupt-driven design**
 - 🧠 Learning **RTOS concepts (FreeRTOS)**, memory-constrained programming, and low-level debugging
 - 🌱 Background in **JavaScript / TypeScript / React** — bringing solid software engineering discipline into embedded work
@@ -49,6 +49,7 @@ I'm an engineer transitioning from **web development** into **embedded software 
 
 | Project | Description | Stack |
 |---|---|---|
+| [**ARM-Cortex-M-Programming**](https://github.com/ShayanSaed/ARM-Cortex-M-Programming) | Deep-dive into ARM Cortex-M architecture: operation modes, access levels, stack pointer, bit-banding, interrupt priority, exception entry/exit, fault handling, and SVC calls | C, Assembly, ARM Cortex-M |
 | [**Embedded-C-Programming**](https://github.com/ShayanSaed/Embedded-C-Programming) | Embedded C programming & firmware development on STM32F411CEU6 using STM32CubeIDE | C, Assembly |
 | [**IoT-Environmental-Monitoring-System**](https://github.com/ShayanSaed/IoT-Environmental-Monitoring-System) | Cloud-connected ESP8266 system for CO gas & environmental monitoring with OLED UI and remote alerts | C++, IoT, Thinger.io |
 | [**OLED-Menu**](https://github.com/ShayanSaed/OLED-Menu) | ESP8266-based OLED menu system covering button debouncing and embedded UI logic | C++ |
