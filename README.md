@@ -36,7 +36,7 @@ I'm an engineer transitioning from **web development** into **embedded software 
   <!-- <img src="https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
 </p>
 
 **Tools & Environment:** STM32CubeIDE · STM32CubeMX · CubeProgrammer · ST-Link · Logic Analyzer · Oscilloscope · GCC ARM Toolchain
